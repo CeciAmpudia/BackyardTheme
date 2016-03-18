@@ -1,0 +1,48 @@
+body strong {
+  color: #5bc0de; }
+body p {
+  padding: 15px 0px;
+  line-height: 25px; }
+body h3 {
+  font-size: 30px; }
+
+header a {
+  color: black; }
+header nav {
+  float: right; }
+
+section {
+  padding: 70px; }
+
+.gray {
+  background-color: rgba(0, 0, 0, 0.46); }
+
+#head {
+  background-image: url("../images/1920x665-1.jpg");
+  color: white; }
+  #head h1 {
+    font-size: 50px; }
+
+#optimize button, #head button {
+  border-radius: 20px;
+  background: transparent;
+  margin-left: 10px;
+  width: 120px;
+  color: #5bc0de;
+  padding: 10px; }
+#optimize button:hover, #head button:hover {
+  background: #5bc0de !important;
+  color: white !important; }
+
+#recreate {
+  background: #eee; }
+
+footer {
+  padding: 20px; }
+  footer button {
+    border-radius: 30px !important;
+    background: transparent !important;
+    color: #5bc0de !important;
+    padding: 10px; }
+
+/*# sourceMappingURL=main.css.map */
